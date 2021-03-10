@@ -1,4 +1,11 @@
-This assignment is created by Mathew Lawrence, 17354272
+# Lift Concurrency Simulator
+
+This is my solution to the lift concurrency problem. All the code is provided by the lecturer and we had to debug it to figure out why it wasnt working.
+
+##Below are my original Notes
+
+
+This assignment is created by FireandIceFrog, 17******
 
 Assignment 2.
 Lift simulator.
